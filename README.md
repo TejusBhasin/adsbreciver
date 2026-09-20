@@ -11,6 +11,9 @@
 | 1 | [ADSB Stick](https://www.amazon.com/dp/B009U7WZCA?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1) | Configured to 1090ES (Author's came bundled with the antenna) |
 | 1 | [SanDisk Ultra microSD Card (32GB)](https://www.amazon.com/SanDisk-Ultra%C2%AE-microSDHC-120MB-Class/dp/B08L5HMJVW/ref=sr_1_4_mod_primary_new?crid=309ETHMK7ASE1&dib=eyJ2IjoiMSJ9.9yRU78cnFSjLUK_rxwTOycx__oNXDnOpDRIkinobDl4WKeXrpxz_QVAkirfNh0jtE6WHFdp6AKlTojfHOX_91Sw3buEVGcaR1-P_wa50Lb7RXne7e_fgUW9Rvt3mi4HKoM6P9xMq1b2Bj9ID88YypJpeqdt7RQS2Tok4i2ARXnIlPsGCu32qCqKVTHaXnq2frNkvhxOs8g8vUdgWy02Ef_kvtL-EDj4Dx1iUsUyHRzbpY_PfsdvSonvsCCm8TrAszU4DKunzkFtGvj24cYrEgnDjhVt-ZiC5Y23VekKcjgs.YbaX0x8hjxgHIYiMVtZwpZ-tYoCJlX74Di24K03OhOQ&dib_tag=se&keywords=32gb+microsd&qid=1789924577&s=electronics&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=32gb+microsd%2Celectronics%2C144&sr=1-4#customerReviews) | 32GB or more recommended |
 
+<img width="768" height="576" alt="image" src="https://github.com/user-attachments/assets/cd8f6a9f-053d-4eba-bde8-62041de89587" />
+
+
 ## Easily install ADS-B/UAT/ACARS/VDLM2 related applications!
 
 This project continues to realize that for some, Docker and premade images are not the most optimal solution.
