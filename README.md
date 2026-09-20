@@ -15,6 +15,10 @@
 
 NOTE: THERE ARE NO HAND WIRED COMPONENTS
 
+<img width="1080" height="759" alt="image" src="https://github.com/user-attachments/assets/19e06ae6-d1d1-4e2e-ba7f-9ff15c9f2f21" />
+
+
+
 ## Easily install ADS-B/UAT/ACARS/VDLM2 related applications!
 
 This project continues to realize that for some, Docker and premade images are not the most optimal solution.
