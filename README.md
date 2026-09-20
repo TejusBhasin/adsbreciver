@@ -13,6 +13,7 @@
 
 <img width="768" height="576" alt="image" src="https://github.com/user-attachments/assets/cd8f6a9f-053d-4eba-bde8-62041de89587" />
 
+NOTE: THERE ARE NO HAND WIRED COMPONENTS
 
 ## Easily install ADS-B/UAT/ACARS/VDLM2 related applications!
 
